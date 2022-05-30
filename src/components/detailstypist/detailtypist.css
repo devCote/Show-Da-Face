@@ -1,0 +1,20 @@
+.sp-info {
+  color: #3f3;
+}
+
+.info-container {
+  position: absolute;
+  display: flex;
+  text-align: left;
+  White-space: nowrap;
+  cursor: default;
+  z-index: 10;
+  background-color: black;
+  padding: 0px 4px 4px 4px;
+}
+
+.p-text {
+  color: #3f3;
+  word-wrap: break-word;
+  word-break: break-word;
+}

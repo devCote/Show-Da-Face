@@ -1,0 +1,43 @@
+{
+  "name": "showdaface",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "devCote",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "clarifai": "^2.9.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-scripts": "^5.0.1",
+    "react-tilt": "^0.1.4",
+    "react-tsparticles": "^2.0.6",
+    "sass": "^1.52.1",
+    "tachyons": "^4.12.0",
+    "tsparticles": "^2.0.6",
+    "tsparticles-engine": "^2.0.6",
+    "use-dencrypt-effect": "^1.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "prettier": "^2.6.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
